@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ClassDiagram Zoom="1" MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Etapa_1._.MainForm" Collapsed="False">
+    <Position X="0.5" Y="0.5" Width="2.2" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="Etapa_1._.KruskalPrimForm" Collapsed="False">
+    <Position X="2.9" Y="0.5" Width="2.3" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Etapa_1._.GrafoForm" Collapsed="False">
+    <Position X="5.4" Y="0.5" Width="2.6" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Etapa_1._.Dijkstra" Collapsed="False">
+    <Position X="8.2" Y="0.5" Width="2.2" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Etapa_1._.elementoDij" Collapsed="False">
+    <Position X="10.6" Y="0.5" Width="1.8" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Etapa_1._.FuerzaBruta" Collapsed="False">
+    <Position X="0.5" Y="5.6" Width="1.8" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Etapa_1._.Grafo" Collapsed="False">
+    <Position X="8.2" Y="3.7" Width="1.8" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Etapa_1._.Vertice" Collapsed="False">
+    <Position X="8.3" Y="6.3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Etapa_1._.RecorridosGrafo" Collapsed="False">
+    <Position X="2.9" Y="8.6" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Etapa_1._.Particula" Collapsed="False">
+    <Position X="10.5" Y="4.3" Width="1.9" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Etapa_1._.Circle" Collapsed="False">
+    <Position X="8.3" Y="9" Width="1.3" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Etapa_1._.Arista" Collapsed="False">
+    <Position X="9.7" Y="10.2" Width="1.6" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Etapa_1._.Program" Collapsed="False">
+    <Position X="11.4" Y="10.3" Width="1.4" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Etapa_1._.ImageProcessing" Collapsed="False">
+    <Position X="0.5" Y="8.2" Width="2.3" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+</ClassDiagram>

@@ -1,0 +1,34 @@
+C:\Users\Usuario\Documents\SharpDevelop Projects\Etapa_1.1\Etapa_1.1\bin\Debug\Etapa_1.1.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\Etapa_1.1\Etapa_1.1\bin\Debug\Etapa_1.1.pdb
+C:\Users\Usuario\Documents\SharpDevelop Projects\Etapa_1.1\Etapa_1.1\obj\Debug\Etapa_1.1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\SharpDevelop Projects\Etapa_1.1\Etapa_1.1\obj\Debug\Etapa_1.1.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\Etapa_1.1\Etapa_1.1\obj\Debug\Etapa_1.1.pdb
+C:\Users\Usuario\Documents\SharpDevelop Projects\Etapa_1.1\Etapa_1.1\obj\Debug\Etapa_1._.MainForm.resources
+C:\Users\Usuario\Documents\SharpDevelop Projects\Etapa_1.1\Etapa_1.1\obj\Debug\Etapa_1.1.csproj.GenerateResource.Cache
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Etapa_1.1\Etapa_1.1\bin\Debug\Etapa_1.1.exe
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Etapa_1.1\Etapa_1.1\bin\Debug\Etapa_1.1.pdb
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Etapa_1.1\Etapa_1.1\obj\Debug\Etapa_1.1.csprojResolveAssemblyReference.cache
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Etapa_1.1\Etapa_1.1\obj\Debug\Etapa_1._.MainForm.resources
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Etapa_1.1\Etapa_1.1\obj\Debug\Etapa_1.1.csproj.GenerateResource.Cache
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Etapa_1.1\Etapa_1.1\obj\Debug\Etapa_1.1.exe
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Etapa_1.1\Etapa_1.1\obj\Debug\Etapa_1.1.pdb
+C:\Users\Oscar\Documents\SharpDevelop Projects\Etapa_1.1\Etapa_1.1\bin\Debug\Etapa_1.1.exe
+C:\Users\Oscar\Documents\SharpDevelop Projects\Etapa_1.1\Etapa_1.1\bin\Debug\Etapa_1.1.pdb
+C:\Users\Oscar\Documents\SharpDevelop Projects\Etapa_1.1\Etapa_1.1\obj\Debug\Etapa_1.1.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Documents\SharpDevelop Projects\Etapa_1.1\Etapa_1.1\obj\Debug\Etapa_1._.MainForm.resources
+C:\Users\Oscar\Documents\SharpDevelop Projects\Etapa_1.1\Etapa_1.1\obj\Debug\Etapa_1.1.csproj.GenerateResource.Cache
+C:\Users\Oscar\Documents\SharpDevelop Projects\Etapa_1.1\Etapa_1.1\obj\Debug\Etapa_1.1.exe
+C:\Users\Oscar\Documents\SharpDevelop Projects\Etapa_1.1\Etapa_1.1\obj\Debug\Etapa_1.1.pdb
+C:\Users\Usuario\Documents\SharpDevelop Projects\Etapa_1.1\Etapa_1.1\obj\Debug\Etapa_1.1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\SharpDevelop Projects\Etapa_1.1PROFE\Etapa_1.1\obj\Debug\Etapa_1.1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\SharpDevelop Projects\Etapa_1.1PROFE\Etapa_1.1\obj\Debug\Etapa_1._.MainForm.resources
+C:\Users\Usuario\Documents\SharpDevelop Projects\Etapa_1.1PROFE\Etapa_1.1\obj\Debug\Etapa_1.1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\SharpDevelop Projects\Etapa_1.1PROFE\Etapa_1.1\obj\Debug\Etapa_1.1.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\Etapa_1.1PROFE\Etapa_1.1\obj\Debug\Etapa_1.1.pdb
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Etapa_1.1PROFE2\Etapa_1.1\obj\Debug\Etapa_1.1.csprojResolveAssemblyReference.cache
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Etapa_1.1PROFE2\Etapa_1.1\obj\Debug\Etapa_1._.MainForm.resources
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Etapa_1.1PROFE2\Etapa_1.1\obj\Debug\Etapa_1.1.csproj.GenerateResource.Cache
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Etapa_1.1PROFE2\Etapa_1.1\obj\Debug\Etapa_1.1.exe
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Etapa_1.1PROFE2\Etapa_1.1\obj\Debug\Etapa_1.1.pdb
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Etapa_1.1PROFE2\Etapa_1.1\bin\Debug\Etapa_1.1.exe
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Etapa_1.1PROFE2\Etapa_1.1\bin\Debug\Etapa_1.1.pdb
